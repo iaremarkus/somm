@@ -1,4 +1,4 @@
-app = "somm-92fb"
+app = "somm"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
